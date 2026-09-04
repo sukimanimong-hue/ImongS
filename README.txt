@@ -21,7 +21,7 @@ YANG SUDAH DISESUAIKAN:
 Nama       : ImongS
 Instagram  : @iam_imong
 Jurusan    : Teknologi Informasi
-Universitas: Hamzanwadi University
+Universitas: Institute technology and aspiration health 
 
 CATATAN:
 Bagian FOTO masih berupa placeholder. Ganti dengan foto sendiri jika ingin.
